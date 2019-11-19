@@ -112,8 +112,5 @@ ENV/
 # py.test
 .pytest_cache*
 
-# csv
-.csv
-
 # mac stuff
 .DS_Store
